@@ -8,7 +8,7 @@
 * [Home](https://fadnesscharlie.github.io/New-Main/)
 * [Growth Mindset](https://fadnesscharlie.github.io/New-Main/growth_mindset)
 * [Learning Markdown](https://fadnesscharlie.github.io/New-Main/Presentation)
-* [Learning Git...Still needs work](https://fadnesscharlie.github.io/New-Main/learning_git)  
+* [Learning Git](https://fadnesscharlie.github.io/New-Main/learning_git)  
 
 <img src="https://github.com/fadnesscharlie/Reading-notes/blob/main/ProfilePic.jpg?raw=true" width="400" height="500">
 
