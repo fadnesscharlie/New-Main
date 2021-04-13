@@ -1,5 +1,7 @@
 # Learning Javascript
 
+# Learning JavaScript Programming
+
 [Home](https://fadnesscharlie.github.io/Reading-notes1000/) &nbsp;
 [Growth Mindset](https://fadnesscharlie.github.io/Reading-notes1000/growth_mindset) &nbsp;
 [Learning Markdown](https://fadnesscharlie.github.io/Reading-notes1000/learning_markdown) &nbsp;
@@ -7,6 +9,8 @@
 [Learning Git](https://fadnesscharlie.github.io/Reading-notes1000/learning_git) &nbsp;
 [Learning CSS](https://fadnesscharlie.github.io/Reading-notes1000/learning_css) &nbsp;
 [Learning JS](https://fadnesscharlie.github.io/Reading-notes1000/learning_js)
+[learning Programming](https://fadnesscharlie.github.io/Reading-notes1000/learning_programming)
+[Learning Operators and Loops](https://fadnesscharlie.github.io/Reading-notes1000/learning_operators_and_loops)
 
 ## Variables
 
@@ -21,12 +25,6 @@ Storing a variable is different between numbers and strings. String being one or
 When adding JavaScript to your program, you want to make sure to be able to link your page to your HTML page. As HTML reads from top to bottom, you want to place this near your CSS link for JS to run everything as the page is being rendered.
 
 When linking, you want to make sure, in your JS to mention and write out where you want your JS actions to take place. Wether that be in the beginning, or in certain tags throughout the whole page. Example of this would be, if you wanted JS to make sure they displayed the person's Birthday in the correct spot, you want to make sure the tag is correct or else the Birthday could be displayed in a random place, or no where if HTML does not know where you want this specific action to take place at.
-
-## Statements
-
-Statements are like instructions. These instructions work one by one, through your lines of code to give you the outcome that you want. When making a variable, object, or method. These are statements???????
-
-Statements are what is happening. If something is being changed, moved, or activated. That is from the statement of the
 
 ## Comments
 

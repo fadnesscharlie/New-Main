@@ -1,6 +1,8 @@
 
 # Charlie Fadness's First Github Pages.
 
+# Learning JavaScript Programming
+
 [Home](https://fadnesscharlie.github.io/Reading-notes1000/) &nbsp;
 [Growth Mindset](https://fadnesscharlie.github.io/Reading-notes1000/growth_mindset) &nbsp;
 [Learning Markdown](https://fadnesscharlie.github.io/Reading-notes1000/learning_markdown) &nbsp;
@@ -8,6 +10,8 @@
 [Learning Git](https://fadnesscharlie.github.io/Reading-notes1000/learning_git) &nbsp;
 [Learning CSS](https://fadnesscharlie.github.io/Reading-notes1000/learning_css) &nbsp;
 [Learning JS](https://fadnesscharlie.github.io/Reading-notes1000/learning_js)
+[learning Programming](https://fadnesscharlie.github.io/Reading-notes1000/learning_programming)
+[Learning Operators and Loops](https://fadnesscharlie.github.io/Reading-notes1000/learning_operators_and_loops)
 
 Hello! My name is Charlie, things about me would be I love anime, playing POE, baking, helping people, and outdoors. I am looking forward to coding as a new career pathway and seeing where coding/programming can take me. The joruney ahead is going to a tough climb, but with perseverance I will move forward, carve a path and layout a trail of my own so that no matter where I stand on this mountain. I can always look back and see how far I have progressed and obstacles that I have overcome! My perfered pronouns are he, him, and his. Thank you for visiting my webiste! I hope it can help you move forward in any obstacles that come along your journey.
 

@@ -1,5 +1,7 @@
 # Welcome Here is a little summary of what I have learned
 
+# Learning JavaScript Programming
+
 [Home](https://fadnesscharlie.github.io/Reading-notes1000/) &nbsp;
 [Growth Mindset](https://fadnesscharlie.github.io/Reading-notes1000/growth_mindset) &nbsp;
 [Learning Markdown](https://fadnesscharlie.github.io/Reading-notes1000/learning_markdown) &nbsp;
@@ -7,7 +9,8 @@
 [Learning Git](https://fadnesscharlie.github.io/Reading-notes1000/learning_git) &nbsp;
 [Learning CSS](https://fadnesscharlie.github.io/Reading-notes1000/learning_css) &nbsp;
 [Learning JS](https://fadnesscharlie.github.io/Reading-notes1000/learning_js)
-
+[learning Programming](https://fadnesscharlie.github.io/Reading-notes1000/learning_programming)
+[Learning Operators and Loops](https://fadnesscharlie.github.io/Reading-notes1000/learning_operators_and_loops)
 Through all the things I have learned through this course so far are a lot of useful features that you may run into and never bothering to open, or even look it.
 Today I'll explain a few of those features to you!
 

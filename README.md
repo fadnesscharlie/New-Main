@@ -12,6 +12,11 @@
 * [Learning Git](https://fadnesscharlie.github.io/Reading-notes1000/learning_git) &nbsp;
 * [Learning CSS](https://fadnesscharlie.github.io/Reading-notes1000/learning_css) &nbsp;
 * [Learning JS](https://fadnesscharlie.github.io/Reading-notes1000/learning_js)
+* [learning Programming](https://fadnesscharlie.github.io/Reading-notes1000/learning_programming)
+* [Learning Operators and Loops](https://fadnesscharlie.github.io/Reading-notes1000/learning_operators_and_loops)
+
+# Learning JavaScript Programming
+
 
 <img src="https://github.com/fadnesscharlie/Reading-notes/blob/main/ProfilePic.jpg?raw=true" width="400" height="500">
 
