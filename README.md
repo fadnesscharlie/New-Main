@@ -5,10 +5,13 @@
 
 ## Table of Contents
 
-* [Home](https://fadnesscharlie.github.io/New-Main/)
-* [Growth Mindset](https://fadnesscharlie.github.io/New-Main/growth_mindset)
-* [Learning Markdown](https://fadnesscharlie.github.io/New-Main/learning_markdown)
-* [Learning Git](https://fadnesscharlie.github.io/New-Main/learning_git)  
+* [Home](https://fadnesscharlie.github.io/Reading-notes1000/) &nbsp;
+* [Growth Mindset](https://fadnesscharlie.github.io/Reading-notes1000/growth_mindset) &nbsp;
+* [Learning Markdown](https://fadnesscharlie.github.io/Reading-notes1000/learning_markdown) &nbsp;
+* [Learning HTML](https://fadnesscharlie.github.io/Reading-notes1000/learning_html) &nbsp;
+* [Learning Git](https://fadnesscharlie.github.io/Reading-notes1000/learning_git) &nbsp;
+* [Learning CSS](https://fadnesscharlie.github.io/Reading-notes1000/learning_css) &nbsp;
+* [Learning JS](https://fadnesscharlie.github.io/Reading-notes1000/learning_js)
 
 <img src="https://github.com/fadnesscharlie/Reading-notes/blob/main/ProfilePic.jpg?raw=true" width="400" height="500">
 
