@@ -1,5 +1,13 @@
 # Welcome Here is a little summary of what I have learned
 
+[Home](https://fadnesscharlie.github.io/Reading-notes1000/) &nbsp;
+[Growth Mindset](https://fadnesscharlie.github.io/Reading-notes1000/growth_mindset) &nbsp;
+[Learning Markdown](https://fadnesscharlie.github.io/Reading-notes1000/learning_markdown) &nbsp;
+[Learning HTML](https://fadnesscharlie.github.io/Reading-notes1000/learning_html) &nbsp;
+[Learning Git](https://fadnesscharlie.github.io/Reading-notes1000/learning_git) &nbsp;
+[Learning CSS](https://fadnesscharlie.github.io/Reading-notes1000/learning_css) &nbsp;
+[Learning JS](https://fadnesscharlie.github.io/Reading-notes1000/learning_js)
+
 Through all the things I have learned through this course so far are a lot of useful features that you may run into and never bothering to open, or even look it.
 Today I'll explain a few of those features to you!
 
@@ -43,5 +51,4 @@ is very good to practice, even to train your subconscious to be able to perform 
 Here are things that I learned from class so far. I hope this has helped you in any way or form, whether knowledge or ideas. Thank you very much for reading and I look forward
 to showing you so much more information in the future!
 
-Charlie Fadness.
-[Charlie's Github](https://github.com/fadnesscharlie)
+[Charlie Fadness Github](https://github.com/fadnesscharlie)

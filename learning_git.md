@@ -1,6 +1,14 @@
 
 # Learning Git
 
+[Home](https://fadnesscharlie.github.io/Reading-notes1000/) &nbsp;
+[Growth Mindset](https://fadnesscharlie.github.io/Reading-notes1000/growth_mindset) &nbsp;
+[Learning Markdown](https://fadnesscharlie.github.io/Reading-notes1000/learning_markdown) &nbsp;
+[Learning HTML](https://fadnesscharlie.github.io/Reading-notes1000/learning_html) &nbsp;
+[Learning Git](https://fadnesscharlie.github.io/Reading-notes1000/learning_git) &nbsp;
+[Learning CSS](https://fadnesscharlie.github.io/Reading-notes1000/learning_css) &nbsp;
+[Learning JS](https://fadnesscharlie.github.io/Reading-notes1000/learning_js)
+
 Here a small list of things that I have learned from Git
 
 ## Repository
@@ -15,14 +23,14 @@ A way to track what you have done. It makes a long list of every commit you have
 
 Three simple concepts to make sure everything runs smooth while using Git.
 
-- 'git add "your file/repo'
+- `git add "your file/repo`
   - This allows you add something to your workspace
-- 'git commit -m "changes made"'
+- `git commit -m "changes made"`
   - Commit those changes
-- 'git push origin master'
-  - Push it back to the origial repo 
+- `git push origin master`
+  - Push it back to the origial repo
 
 With all of this combined and a lot more. Is the basics of Git.
 
-[Home](https://fadnesscharlie.github.io/Reading-notes/)
+[Charlie Fadness Github](https://fadnesscharlie.github.io/Reading-notes/)
 
