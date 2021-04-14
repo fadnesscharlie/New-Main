@@ -9,7 +9,7 @@
 [Learning JS](https://fadnesscharlie.github.io/Reading-notes1000/learning_js)&nbsp;
 [learning Programming](https://fadnesscharlie.github.io/Reading-notes1000/learning_programming)&nbsp;
 [Learning Operators and Loops](https://fadnesscharlie.github.io/Reading-notes1000/learning_operators_and_loops)&nbsp;
-[Learning Architecture and Logic](https://fadnesscharlie.github.io/Reading-notes1000/learning_arch_and_logic)
+[Learning Architecture and Logic](https://fadnesscharlie.github.io/Reading-notes1000/arch_and_logic)
 
 ## How computer works
 
