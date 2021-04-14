@@ -6,10 +6,10 @@
 [Learning HTML](https://fadnesscharlie.github.io/Reading-notes1000/learning_html) &nbsp;
 [Learning Git](https://fadnesscharlie.github.io/Reading-notes1000/learning_git) &nbsp;
 [Learning CSS](https://fadnesscharlie.github.io/Reading-notes1000/learning_css) &nbsp;
-[Learning JS](https://fadnesscharlie.github.io/Reading-notes1000/learning_js)
-[Computer Architecture and Logic](https://fadnesscharlie.github.io/Reading-notes1000/arch_and_logic)
-[learning Programming](https://fadnesscharlie.github.io/Reading-notes1000/learning_programming)
-[Learning Operators and Loops](https://fadnesscharlie.github.io/Reading-notes1000/learning_Operators_and_loops)
+[Learning JS](https://fadnesscharlie.github.io/Reading-notes1000/learning_js)&nbsp;
+[learning Programming](https://fadnesscharlie.github.io/Reading-notes1000/learning_programming)&nbsp;
+[Learning Operators and Loops](https://fadnesscharlie.github.io/Reading-notes1000/learning_operators_and_loops)&nbsp;
+[Learning Architecture and Logic](https://fadnesscharlie.github.io/Reading-notes1000/learning_arch_and_logic)
 
 ## Goals of a Script
 
@@ -20,14 +20,6 @@ You wand to write out what is happening. Think of it as, if i do this, this happ
 One thing we have to understand is that the computer only does now add the information around it. It reads what it is told as if it does not know anything besides what is written in the code.
 
 Having a good understanding of logic chains is a very good skill. When we have an idea of what happens next in the chain, we can know where to code for the computer to understand where to go next.
-
-## Expression
-
-results in a single value
-
-### Assign a value to variable
-
-### Two or more values to return a single value
 
 ## Operations
 
