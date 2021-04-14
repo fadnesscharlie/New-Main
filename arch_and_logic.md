@@ -17,19 +17,19 @@
 
 A computer is made of 4 basic tasks. Input, Store, Process, and Output. Every computer uses these four simple steps to activate, run commands, and does what we want the computer to do for us.
 
-### take input
+### Take input
 
 What the world does, what we tell it to do. The input is information that we decide we want to do. We can either have a program running, tell it to run another program, or stop a program. Without us telling the computer what to do, the computer is just wires and code sitting there.
 
-### store input
+### Store input
 
 The information that we input needs to be stored, think of it like our brain, it needs a place to store that information, let us think about, choose what we want or not want to happen. Then when we want the same action to happen again, when it is stored, the computer can easily access and output for us since it is stored in memory.
 
-### process
+### Process
 
 The process of a computer is all those binary code lines running, printing out those 0's and 1's that create the code, process, action, that we want, then sends it output that stored information.
 
-### output
+### Output
 
 The output is what we see when we click, open, use, or command something. From typing on the key, to displaying the text that we see on the screen now. It took in the input of the command we wanted, stored it, processed it, and now output that task for us to use.
 
